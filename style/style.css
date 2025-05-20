@@ -24,7 +24,7 @@ body{
 }
 
 .contenido{
-    margin-top: 3rem;
+    margin-top: 6rem;
 }
 
 [data-content]{
@@ -34,3 +34,4 @@ body{
 .active[data-content]{
     display: block;
 }
+
